@@ -1,0 +1,3 @@
+Ecrire un programme qui demande à l’utilisateur de taper 10 entiers
+ et qui affiche la somme et la moyenne et le plus petit (noté min) et le plus grand 
+(noté max) de ces entiers, ainsi que sa position.
